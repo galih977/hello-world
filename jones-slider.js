@@ -1,3 +1,4 @@
+'use strict';
 if ("function" !== typeof Object.create) {
   Object.create = function(variable_0$jscomp$0) {
     function variable_1$jscomp$0() {
@@ -1179,5 +1180,3 @@ if ("function" !== typeof Object.create) {
     afterLazyLoad : false
   };
 })(jQuery, window, document);
-}
-;
